@@ -17,7 +17,9 @@ export default function Home() {
           <li>I expect to learn a lot from the language <strong>Java</strong>.</li>
           <li>I expect to learn how to customize and upload websites.</li>
         </ul>
-        <p>10 Things That Require Zero Talent</p>
+
+    
+        <p>10 Things That Require Zero Talent:</p>
     <ul>
       <li>1. Being On Time.</li>
       <li>2. Making An Effort.</li>

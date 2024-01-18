@@ -9,26 +9,22 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm Kervin Amiel Josh K. Canlas. I'm an IT student from University of the Assumption.</p>
-        
+        <p>10 Things That Require Zero Talent</p>
 
         <ul>
           <li>I expect this subject to be a challenging one</li>
-          <li>I expect to learn Java</li>
-          <li>I expect to learn and have a knowledge on how to design and submit a website.</li>
         </ul>
-        <p>10 Things That Require Zero Talent:</p>
     <ul>
-      <ol>1. Being On Time.</ol>
-      <ol>2. Making An Effort.</ol>
-      <ol>3. Being High Energy.</ol>
-      <ol>4. Having A Positive Attitude.</ol>
-      <ol>5. Being Passionate.</ol>
-      <ol>6. Using Good body Language.</ol>
-      <ol>7. Being Caochable.</ol>
-      <ol>8. Doing A Little Extra.</ol>
-      <ol>9. Being Prepared.</ol>
-      <ol>10. Having A Strong Work Ethic.</ol>
+      <li>1. Being On Time.</li>
+      <li>2. Making An Effort.</li>
+      <li>3. Being High Energy.</li>
+      <li>4. Having A Positive Attitude.</li>
+      <li>5. Being Passionate.</li>
+      <li>6. Using Good body Language.</li>
+      <li>7. Being Caochable.</li>
+      <li>8. Doing A Little Extra.</li>
+      <li>9. Being Prepared.</li>
+      <li>10. Having A Strong Work Ethic.</li>
   </ul>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}

@@ -9,11 +9,15 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>10 Things That Require Zero Talent</p>
+        <p>Hello, I'm Kervin Amiel Josh K. Canlas. I'm an IT student from University of the Assumption.</p>
+      
 
         <ul>
           <li>I expect this subject to be a challenging one</li>
+          <li>I expect to learn a lot from the language <strong>Java</strong>.</li>
+          <li>I expect to learn how to customize and upload websites.</li>
         </ul>
+        <p>10 Things That Require Zero Talent</p>
     <ul>
       <li>1. Being On Time.</li>
       <li>2. Making An Effort.</li>
